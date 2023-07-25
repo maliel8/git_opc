@@ -1,0 +1,34 @@
+body
+{
+     display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+     align-items: center;
+}
+form 
+{
+      
+      border: 1px black solid;
+      border-radius: 15px;
+      background-color: lightgreen;
+      width: 30em;
+      
+}
+.elem_form 
+{
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+input
+{
+      width: 20em;
+      border: 1px solid black;
+      border-radius: 10px;
+      text-align: center;
+}
+header
+{
+      text-align: center;
+}
